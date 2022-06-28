@@ -1,0 +1,2 @@
+# main.lang
+$LANG sharp!
